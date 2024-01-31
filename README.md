@@ -9,7 +9,7 @@
 ## Todo
 
 - [x] Environment Setup
-- [ ] Home Page
+- [x] Home Page
 - [ ] Card Wrapper
 - [ ] Login Form
 - [ ] Register Form
