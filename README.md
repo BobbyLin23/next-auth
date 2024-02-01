@@ -10,6 +10,6 @@
 
 - [x] Environment Setup
 - [x] Home Page
-- [ ] Card Wrapper
+- [x] Card Wrapper
 - [ ] Login Form
 - [ ] Register Form
