@@ -14,7 +14,7 @@
 - [x] Card Wrapper
 - [x] Login Form
 - [x] Register Form
-- [ ] DB & Prisma Setup
+- [x] DB & Prisma Setup
 - [ ] Create User
 - [ ] Login & Middleware
 - [ ] Callbacks
