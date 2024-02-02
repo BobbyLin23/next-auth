@@ -13,7 +13,7 @@
 - [x] Home Page
 - [x] Card Wrapper
 - [x] Login Form
-- [ ] Register Form
+- [x] Register Form
 - [ ] DB & Prisma Setup
 - [ ] Create User
 - [ ] Login & Middleware
