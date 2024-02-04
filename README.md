@@ -15,7 +15,7 @@
 - [x] Login Form
 - [x] Register Form
 - [x] DB & Prisma Setup
-- [ ] Create User
-- [ ] Login & Middleware
+- [x] Create User
+- [x ] Login & Middleware
 - [ ] Callbacks
 - [ ] OAuth
