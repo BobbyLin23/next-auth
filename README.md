@@ -6,6 +6,7 @@
 - Shadcn UI
 - Auth.js
 - Prisma
+- Neon for PostgreSQL
 
 ## Todo
 
@@ -18,4 +19,12 @@
 - [x] Create User
 - [x] Login & Middleware
 - [x] Callbacks
-- [ ] OAuth
+- [x] OAuth
+- [ ] Sending Emails
+- [ ] Email Verification
+- [ ] Reset Password Email
+- [ ] Reset Password Form
+- [ ] Two factor Verification
+- [ ] User Button
+- [ ] Settings Page
+- [ ] Deployment
