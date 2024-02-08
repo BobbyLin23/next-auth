@@ -21,9 +21,9 @@
 - [x] Callbacks
 - [x] OAuth
 - [x] Sending Emails
-- [ ] Email Verification
-- [ ] Reset Password Email
-- [ ] Reset Password Form
+- [x] Email Verification
+- [x] Reset Password Email
+- [x] Reset Password Form
 - [ ] Two factor Verification
 - [ ] User Button
 - [ ] Settings Page
