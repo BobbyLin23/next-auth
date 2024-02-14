@@ -20,7 +20,9 @@ export default function Home() {
         >
           🔐 Auth
         </h1>
-        <p className="text-lg text-white">A simple authentication service</p>
+        <p className="text-lg text-white">
+          A simple authentication service by Next.js
+        </p>
         <div>
           <LoginButton>
             <Button variant="secondary" size="lg">

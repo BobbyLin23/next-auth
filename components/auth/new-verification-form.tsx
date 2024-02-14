@@ -23,7 +23,7 @@ export const NewVerificationForm = () => {
     }
 
     if (!token) {
-      setError('Token does not exist')
+      setError('Missing Token!')
       return
     }
 
